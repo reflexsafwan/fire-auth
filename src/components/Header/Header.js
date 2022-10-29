@@ -38,7 +38,7 @@ const Header = () => {
             <li className="nav-link items  ms-3 text-info fw-bolder">About</li>
           </Link>
           <li className="nav-link items  ms-3 text-info fw-bolder">
-            {"user?.displayName"}
+            {/* {"user?.displayName"} */}
           </li>
         </div>
       </nav>
